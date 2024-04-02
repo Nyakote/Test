@@ -1,0 +1,9 @@
+namespace githih{
+
+    class Test{
+
+        
+    }
+
+
+}
